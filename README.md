@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-## Projeto do curso de Escrevendo React com TypeScript da Alura
+# Projeto do curso de Escrevendo React com TypeScript da Alura
 
 ### CONCEITOS ABORDADOS:
 #### Projeto React com Typescript do zero com Create React App
